@@ -1,1 +1,2 @@
 web node: npm run dev
+launch python: python file.py
