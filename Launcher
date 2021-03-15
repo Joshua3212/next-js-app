@@ -1,2 +1,2 @@
-web node: next start
+web node: npm run start
 launch python: python file.py
